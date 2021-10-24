@@ -2,13 +2,13 @@
 INSERT INTO genres VALUES(1, 'Рок');
 INSERT INTO genres VALUES(2, 'Поп');
 INSERT INTO genres VALUES(3, 'Рэп');
-INSERT INTO genres VALUES(4, 'Хип-хоп');
-INSERT INTO genres VALUES(5, 'Танцевальная');
-INSERT INTO genres VALUES(6, 'Электрика');
-INSERT INTO genres VALUES(7, 'Фолк');
-INSERT INTO genres VALUES(8, 'Кантри');
-INSERT INTO genres VALUES(9, 'R&B');
-INSERT INTO genres VALUES(10, 'Джаз');
+INSERT INTO genres VALUES(4, 'Фолк');
+INSERT INTO genres VALUES(5, 'Кантри');
+INSERT INTO genres VALUES(6, 'R&B');
+INSERT INTO genres VALUES(7, 'Танцевальная');
+INSERT INTO genres VALUES(8, 'Джаз');
+INSERT INTO genres VALUES(9, 'Электроника');
+INSERT INTO genres VALUES(10, 'Хип-хоп');
 INSERT INTO genres VALUES(11, 'Хард-Рок');
 
 --Fill out the singer table
